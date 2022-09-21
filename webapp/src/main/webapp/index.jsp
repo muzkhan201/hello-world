@@ -1,6 +1,5 @@
 <form action="action_page.php">
   <div class="container">
-    <p>I love you and i want food.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
